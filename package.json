@@ -1,0 +1,25 @@
+{
+  "name": "discord-bot",
+  "description": "Example",
+  "version": "1.0.0"
+}
+  "scripts": {
+    "start": "node index.js"
+    "test" : "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parkhj2005/girl-friend"
+  },
+  "keywords": [
+    "heroku",
+    "discord.js"
+  ],
+  "engines": {
+    "node": "12.14.1",
+    "npm": "6.13.4"
+  },
+  "author": "synicalsyntax",
+  "license": "MIT",
+  "homepage": "https://github.com/synicalsyntax/discord.js-heroku#readme"
+}
